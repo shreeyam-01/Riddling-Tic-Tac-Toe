@@ -1,1 +1,2 @@
 # Riddling Tic-Tac-Toe
+Tired of always ending up in a draw in every game of tic-tac-toe? Well, here's a little change that will add challenges to the game. Players will be asked riddles and mathematical simplifications. If they answer the questions correctly, they will earn the chance to mark their sign, either X or O, on the game board. This game provides a great opportunity to enhance your general knowledge, creativity, and mathematical skills. We hope you'll enjoy it :)
